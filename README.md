@@ -1,5 +1,5 @@
-## 
-Olá! Eu sou o Matheus Gomes Leitão 👋🌟
+## Olá! Eu sou o Matheus Gomes Leitão 👋🌟
+
 Estudante de desenvolvimento no SENAI e apaixonado por tecnologia. 💻 Estou em constante busca por conhecimento e adoro transformar ideias em código. ✨
 
 Minha jornada como desenvolvedor começou com a curiosidade e agora é movida pela paixão de construir soluções inovadoras. 🚀 Este é meu espaço para documentar meu crescimento, compartilhar projetos e colaborar com a comunidade. 🤝
@@ -17,15 +17,12 @@ JavaScript
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 Python
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 HTML
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 CSS
-gut
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 Ferramentas ⚙️
