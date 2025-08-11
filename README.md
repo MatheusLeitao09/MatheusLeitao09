@@ -10,7 +10,7 @@ Atualmente, estou aprofundando meus estudos no SENAI, onde estou aprendendo os f
 🛠️ Tecnologias e Habilidades
 Ao longo dos meus estudos, tenho focado nas seguintes tecnologias:
 
-Linguagens 💻
+Linguagens em Estudo 💻
 
 JavaScript
 
@@ -30,11 +30,9 @@ CSS
 
 Ferramentas ⚙️
 
-Git
-
-GitHub
-
-VS Code
+.Git
+.GitHub
+.VS Code
 
 
 
