@@ -22,7 +22,7 @@ Linguagens em Estudo 💻
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img src="https://i.imgflip.com/a48qxn.gif" alt="Animação de cachorro feliz" width="360" />
 
 ###
 
