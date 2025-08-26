@@ -1,6 +1,19 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+## Olá! Eu sou o Matheus Gomes Leitão 👋🌟
 
-###
+Estudante de desenvolvimento no SENAI e apaixonado por tecnologia. 💻 Estou em constante busca por conhecimento e adoro transformar ideias em código. ✨
+
+Minha jornada como desenvolvedor começou com a curiosidade e agora é movida pela paixão de construir soluções inovadoras. 🚀 Este é meu espaço para documentar meu crescimento, compartilhar projetos e colaborar com a comunidade. 🤝
+
+🎓 Educação
+Atualmente, estou aprofundando meus estudos no SENAI, onde estou aprendendo os fundamentos e as melhores práticas do desenvolvimento de software. 📚
+
+🛠️ Tecnologias e Habilidades
+Ao longo dos meus estudos, tenho focado nas seguintes tecnologias:
+
+Linguagens em Estudo 💻
+
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -26,7 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  
 </div>
 
 ###
@@ -44,6 +57,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 ###
+
+
+
+
+
+
