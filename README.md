@@ -1,16 +1,10 @@
-## Olá! Eu sou o Matheus Gomes Leitão 👋🌟
+## Hello! I am Matheus Gomes Leitão 👋🌟
 
-Estudante de desenvolvimento no SENAI e apaixonado por tecnologia. 💻 Estou em constante busca por conhecimento e adoro transformar ideias em código. ✨
-
-Minha jornada como desenvolvedor começou com a curiosidade e agora é movida pela paixão de construir soluções inovadoras. 🚀 Este é meu espaço para documentar meu crescimento, compartilhar projetos e colaborar com a comunidade. 🤝
-
-🎓 Educação
-Atualmente, estou aprofundando meus estudos no SENAI, onde estou aprendendo os fundamentos e as melhores práticas do desenvolvimento de software. 📚
-
-🛠️ Tecnologias e Habilidades
-Ao longo dos meus estudos, tenho focado nas seguintes tecnologias:
-
-Linguagens em Estudo 💻
+I am a development student at SENAI and passionate about technology. 💻 I am constantly seeking knowledge and love to transform ideas into code. ✨
+My journey as a developer began with curiosity and is now driven by the passion to build innovative solutions. 🚀 This is my space to document my growth, share projects, and collaborate with the community. 🤝
+🎓 Education Currently, I am deepening my studies at SENAI, where I am learning the fundamentals and best practices of software development. 📚
+🛠️ Technologies and Skills Throughout my studies, I have been focusing on the following technologies:
+Languages Under Study 💻
 
 
 
@@ -20,11 +14,10 @@ Linguagens em Estudo 💻
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusLeitao09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img src="https://i.imgflip.com/a48qxn.gif" alt="Cara digitando loucamente" width="360" />
 
-###
+<img align="right" height="150" src="https://i.imgflip.com/a48sto.gif" />
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -51,10 +44,6 @@ Linguagens em Estudo 💻
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
+
 
 <br clear="both">
-
-
-<img src="https://raw.githubusercontent.com/MatheusLeitao09/MatheusLeitao09/output/snake.svg" alt="Snake animation" />
-###
