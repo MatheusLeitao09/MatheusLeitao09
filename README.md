@@ -1,8 +1,11 @@
 ## Hello! I am Matheus Gomes Leitão 👋🌟
 
 I am a development student at SENAI and passionate about technology. 💻 I am constantly seeking knowledge and love to transform ideas into code. ✨
+
 My journey as a developer began with curiosity and is now driven by the passion to build innovative solutions. 🚀 This is my space to document my growth, share projects, and collaborate with the community. 🤝
+
 🎓 Education Currently, I am deepening my studies at SENAI, where I am learning the fundamentals and best practices of software development. 📚
+
 🛠️ Technologies and Skills Throughout my studies, I have been focusing on the following technologies:
 Languages Under Study 💻
 
