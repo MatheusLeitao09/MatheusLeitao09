@@ -51,4 +51,4 @@ Languages Under Study 💻
 
 
 <img src="https://raw.githubusercontent.com/MatheusLeitao09/MatheusLeitao09/output/snake.svg" alt="Snake animation" />
-###
+
